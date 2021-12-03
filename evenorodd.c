@@ -1,12 +1,8 @@
-
-
-
-
-
-
-
-
-
+/*ALGORITHM TO FIND A NUMBER IS EVEN OR ODD
+Step-1:Start
+Step-2:Accept one number
+Step-3:Divide the number with 2,if the remainder is 0 it is even else it is odd
+Step-4:Stop*/
 
 
 #include <iostream>
@@ -30,3 +26,8 @@ int main()
 
    return 0;
 }
+
+
+/*Learning
+1.learned to find whether a number is even or odd
+2.if else is used in the program
