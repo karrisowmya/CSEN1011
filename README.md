@@ -13,3 +13,16 @@ SUMMATIVE ASSESMENT
 [casechange.c](https://github.com/karrisowmya/CSEN1011/blob/8a9b61acdc9cda9df289dc48211c7d08195eae57/collatzsequence.c)<br/>
 [casechange.rap](https://github.com/karrisowmya/CSEN1011/blob/723c893482eb58fead0909e725a8688a96c0c920/casechange.rap)<br/>
 
+MODULE 1
+[addingnumbers.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/addingnumbers.c)<br/>
+[ascii.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/ascii.c)<br/>
+[helloworld.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/helloworld.c)<br/>
+[limits.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/limits.c)<br/>
+[marks.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/marks.c)<br/>
+[netsalary.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/netsalary.c)<br/>
+[remainder.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/remainder.c)<br/>
+[simple-compound.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/simple-compound.c)<br/>
+[simpleinterest.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/simpleinterest.c)<br/>
+[swapping.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/swapping.c)<br/>
+[thirdangle.c](https://github.com/karrisowmya/CSEN1011/blob/dc3f2d838e40784426e341fec06c5d4a666cfba5/MODULE%201/thirdangle.c)<br/>
+
