@@ -81,6 +81,7 @@ MODULE 5
 
 
 FINAL SEMISTER
+
 [chessboard-algorithm](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/chessboard-algorithm)<br/>
 [chessboard.rao](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/chessboard.rap)<br/>
 [customer-purchase](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/customer-purchase-algorithm)<br/>
