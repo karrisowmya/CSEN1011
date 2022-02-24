@@ -80,3 +80,10 @@ MODULE 5
 [student-info.c](https://github.com/karrisowmya/CSEN1011/blob/03aa9c96a46adf751ded175682413f4cc97a362c/MODULE%205/student-info.c)<br/>
 
 
+FINAL SEMISTER
+[chessboard-algorithm](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/chessboard-algorithm)<br/>
+[chessboard.rao](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/chessboard.rap)<br/>
+[customer-purchase](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/customer-purchase-algorithm)<br/>
+[permutation.rap](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/permutation.rap)<br/>
+[permutations-algorithm](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/permutations-algorithm)<br/>
+[shopbill.rap](https://github.com/karrisowmya/CSEN1011/blob/ab887f958148459f37f5ee08a1e29950cf1ce6e3/FINAL%20SEMISTER/shopbill.rap)<br/>
